@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    background:url(ymg04.jpg);
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+
+.pryncypal{
+   
+    margin-left: 1%;
+}
+
+.trymestre{
+    border: 2px solid rgba(138, 6, 85, 0.264);
+    border-radius: 20px;
+    text-align: center;
+    padding: 2px 2px 2px 2px;
+    background-color: aliceblue;
+}
+
+.meses tr,th, td{
+    padding: 2px 2px 2px 2px;
+    
+}
+
+.feryado-folga{
+    color: red;
+}
+
